@@ -1,0 +1,17 @@
+body{
+    background-color:#e6ac00;
+}
+.jumbotron{
+    background-color:#ffe699;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+img{
+    width:400px;
+    height:400px;
+    border-radius: 200px;
+    padding: 20px;
+}
+h3{
+    font-weight: 700;
+    font-family: "Monaco", "Courier New", monospace;
+}
